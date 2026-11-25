@@ -1,47 +1,99 @@
-﻿《炮打平均数统计法》素材说明
+﻿素材来源
 
-原文
-
-DMC 博客，《炮打平均数统计法--我的一张大字报（实际上只是介绍一种心理学统计方法）》，2026 年 11 月 25 日。
+炮打平均数统计法--我的一张大字报（实际上只是介绍一种心理学统计方法）
 https://blog.goodwood-ci.asia/article.html?id=26
 
-片中字幕保留原文标题、各节标题、正文和图注。图片和视频沿用已确认的分镜素材。
+原文配图说明
+配图来自 Wikimedia Commons，已按各图原有许可标注出处，仅做缩放与压缩。
 
-片中影像
-
-下列时间为各素材在片中首次出现的位置。图片经缩放或重新取景，视频取自原片节选。
+影像与许可
 
 00:09  电竞团队比赛
 Ron Lach / Pexels  |  Pexels License
 https://www.pexels.com/video/people-playing-computer-games-7849770/
 
-00:38  游戏手柄操作特写
+00:13  专注的电竞玩家
+Alena Darmel / Pexels  |  Pexels License
+https://www.pexels.com/video/close-up-video-of-a-man-playing-video-game-8127931/
+
+00:19  计算器与纸面图表
+Kindel Media / Pexels  |  Pexels License
+https://www.pexels.com/video/a-person-using-a-calculator-7688065/
+
+00:22  答题试卷
+Andy Barbour / Pexels  |  Pexels License
+https://www.pexels.com/video/person-answering-test-paper-6672301/
+
+00:28  图表定格动画
+Kindel Media / Pexels  |  Pexels License
+https://www.pexels.com/video/a-stop-motion-animation-of-a-graph-7055025/
+
+00:38  游戏手柄及游戏画面
+Nino Souza / Pexels  |  Pexels License
+https://www.pexels.com/video/game-online-console-playstation-4247319/
+
+00:41  游戏手柄操作特写
 ROMAN ODINTSOV / Pexels  |  Pexels License
 https://www.pexels.com/video/close-up-of-hands-using-video-game-controller-5901690/
+
+00:43  RGB 键盘操作特写
+Alena Darmel / Pexels  |  Pexels License
+https://www.pexels.com/video/a-person-using-computer-keyboard-8128359/
 
 01:12  哈佛园
 Marco Almbauer  |  公有领域
 https://commons.wikimedia.org/wiki/File:Harvard_Yard_im_Sommer.jpg
+图片：Wikimedia Commons / Marco Almbauer，公有领域
+
+01:16  哈佛积极心理学课程教师塔尔·本-沙哈尔肖像
+Tal Ben-Shahar 提供，J. Rand 摄影（照片元数据）  |  CC0
+https://commons.wikimedia.org/wiki/File:Tal_Ben_Shahar.tif
 
 01:20  生菜萌发延时
 Dwight Sipler  |  CC BY 2.0
 https://commons.wikimedia.org/wiki/File:Timelapse_of_lettuce_emerging.webm
 
+01:23  幼苗破土延时
+David Roberts / Pexels  |  Pexels License
+https://www.pexels.com/video/time-lapse-of-seedlings-8522207/
+
 01:26  番茄发芽延时
 Akronix  |  CC BY-SA 3.0
 https://commons.wikimedia.org/wiki/File:Germinacion_2.webm
 
+01:31  盆栽嫩芽特写
+ROMAN ODINTSOV / Pexels  |  Pexels License
+https://www.pexels.com/video/close-up-video-of-a-sprouts-7592643/
+
 01:38  欧洲山毛榉芽
 El Grafo  |  CC BY-SA 3.0
 https://commons.wikimedia.org/wiki/File:Fagus_sylvatica_bud.jpg
+图片：Wikimedia Commons / El Grafo，CC BY-SA 3.0
+
+01:44  温室幼苗近景
+Kindel Media / Pexels  |  Pexels License
+https://www.pexels.com/video/close-up-view-of-plants-in-a-pot-7457059/
 
 01:49  户外球场投篮练习
 Ketut Subiyanto / Pexels  |  Pexels License
 https://www.pexels.com/video/man-shooting-the-ball-to-the-basketball-ring-4742296/
 
+01:53  篮球教练指导球队
+cottonbro studio / Pexels  |  Pexels License
+https://www.pexels.com/video/coach-giving-advice-to-female-basketball-players-6767493/
+
 01:58  科比·布莱恩特罚球
 Jeramey Jannene  |  CC BY 2.0
 https://commons.wikimedia.org/wiki/File:Kobe_Bryant_Shooting_Free_Throws_(71084472).jpg
+图片：Jeramey Jannene，CC BY 2.0
+
+02:02  勒布朗·詹姆斯参加迈阿密热火季前训练，2010 年
+Sheila deVera / U.S. Air Force  |  美国公有领域
+https://www.dvidshub.net/image/324396/miami-heats-first-practice
+
+02:07  户外篮球练习
+PNW Production / Pexels  |  Pexels License
+https://www.pexels.com/video/person-wearing-sportswear-playing-basketball-8979056/
 
 02:11  科比·布莱恩特赛前练习罚球，2009 年
 randychiu  |  CC BY 2.0
@@ -55,6 +107,14 @@ https://www.pexels.com/video/basketball-falling-through-a-hoop-in-slow-motion-12
 Christopher Johnson  |  CC BY-SA 2.0
 https://commons.wikimedia.org/wiki/File:LeBron_James_warming_up_before_USA_vs_Spain.jpg
 
+02:38  仰视篮架进球
+olia danilevich / Pexels  |  Pexels License
+https://www.pexels.com/video/low-angle-shot-of-a-basketball-hoop-4964838/
+
+02:54  女子篮球队室内训练
+cottonbro studio / Pexels  |  Pexels License
+https://www.pexels.com/video/female-athlete-shooting-the-basketball-6767265/
+
 03:08  大寨窑洞，1977 年
 Hans-Peter Bärtschi / ETH-Bibliothek Zürich, Bildarchiv, SIK_01-008072  |  CC BY-SA 4.0
 https://commons.wikimedia.org/wiki/File:Dazhai_Yaodong_1977_(SIK_01-008072-Print).jpg
@@ -63,7 +123,11 @@ https://commons.wikimedia.org/wiki/File:Dazhai_Yaodong_1977_(SIK_01-008072-Print
 《人民画报》  |  中国大陆公有领域（Commons 标注）
 https://commons.wikimedia.org/wiki/File:1966-02_农业学大寨.jpg
 
-03:22  大寨梯田，1966 年
+03:22  山西晋中昔阳县区位图
+Slb nsk  |  CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:ChinaJinzhongXiyang.png
+
+03:26  大寨梯田，1966 年
 《人民画报》  |  中国大陆公有领域（Commons 标注）
 https://commons.wikimedia.org/wiki/File:1966-02_农业学大寨2.jpg
 
@@ -74,10 +138,20 @@ https://commons.wikimedia.org/wiki/File:1963-11_1963_陈永贵.jpg
 03:55  山西大寨，1977 年
 Hans-Peter Bärtschi / ETH-Bibliothek Zürich, Bildarchiv, SIK_01-008064  |  CC BY-SA 4.0
 https://commons.wikimedia.org/wiki/File:Dazhai_Shanxi_1977_(SIK_01-008064-Print).jpg
+图片：Hans-Peter Bärtschi / 瑞士摄影基金会（SIK），CC BY-SA 4.0
+
+04:00  山西昔阳大寨村街景，2003 年
+Ran  |  CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Dazhai.jpg
 
 04:46  陈永贵，1966 年
 《人民画报》  |  中国大陆公有领域（Commons 标注）
 https://commons.wikimedia.org/wiki/File:1966-02_陈永贵.jpg
+《人民画报》资料照片，公有领域
+
+04:57  山西昔阳大寨村陈永贵雕像，2005 年
+Fanghong  |  CC BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:ChenYonggui.jpg
 
 05:07  1977 年大寨街景
 Hans-Peter Bärtschi / ETH-Bibliothek Zürich, Bildarchiv, SIK_01-008082  |  CC BY-SA 4.0
@@ -90,10 +164,23 @@ https://commons.wikimedia.org/wiki/File:Wonders_of_China.webm
 05:43  为普及大寨县而奋斗宣传画
 画作摄录：Daderot / Jordan Schnitzer Museum of Art  |  摄录 CC0，原作中国大陆公有领域（Commons 标注）
 https://commons.wikimedia.org/wiki/File:The_Communist_Party_Mobilizes_All_Its_Members_to_Practice_Agriculture_in_Order_to_Fight_for_the_Popularization_of_Dazhai_County,_China,_undated_-_Jordan_Schnitzer_Museum_of_Art-_Eugene,_Oregon_-_DSC09540.jpg
+图片：Daderot，公有领域
 
 05:54  大寨村街景，2025 年
 HerryCFPL  |  CC0 1.0
 https://commons.wikimedia.org/wiki/File:Dazhai_2025.jpg
+
+06:03  大寨村在昔阳县贺新春民间艺术展演，2026 年
+HerryCFPL  |  CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:大寨春潮马踏新.jpg
+
+06:13  哈佛大学维德纳图书馆，2012 年
+Kenneth C. Zirkel  |  CC BY 4.0
+https://commons.wikimedia.org/wiki/File:Widener_Library,_Harvard_University.jpg
+
+06:29  美国剑桥哈佛园航拍，2015 年
+Nick Allen  |  CC BY-SA 4.0
+https://commons.wikimedia.org/wiki/File:Harvard_Yard_aerial.JPG
 
 许可文本
 
@@ -103,3 +190,4 @@ CC BY-SA 3.0  https://creativecommons.org/licenses/by-sa/3.0/
 CC BY-SA 4.0  https://creativecommons.org/licenses/by-sa/4.0/
 CC0  https://creativecommons.org/publicdomain/zero/1.0/
 Pexels License  https://www.pexels.com/license/
+CC BY 4.0  https://creativecommons.org/licenses/by/4.0/
